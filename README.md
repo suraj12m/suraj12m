@@ -34,14 +34,14 @@ Learning:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=suraj12m&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=suraj12m&theme=onedark&no-frame=true&margin-w=10"/>
 </p>
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=suraj12m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj12m&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=suraj12m&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj12m&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
@@ -53,8 +53,6 @@ Learning:
 </p>
 
 ## 🐍 Contribution Snake
-
-> After enabling the GitHub Action below, this image will update automatically.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/suraj12m/suraj12m/output/github-contribution-grid-snake-dark.svg"/>
